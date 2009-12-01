@@ -1,0 +1,9 @@
+obj
+Debug
+Release
+*.suo
+*.ncb
+*.swp
+*~
+*.vcproj.USER.*
+
